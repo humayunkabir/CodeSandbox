@@ -5,7 +5,6 @@ import "./styles.css";
 
 import AddTodo from "./components/AddTodo.jsx";
 import AllTodos from "./components/AllTodos.jsx";
-import List from "./components/List.jsx";
 
 export class App extends Component {
   state = {
